@@ -2,7 +2,7 @@
   "name": "learningnode",
   "version": "1.0.0",
   "description": "all are package managers.",
-  "main": "prac.js",
+  "main": "express_server/server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
